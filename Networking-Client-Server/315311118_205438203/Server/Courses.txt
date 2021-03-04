@@ -1,0 +1,9 @@
+1|Calculos|[]|500
+2|Linear Algebra|[]|350
+3|No logic|[]|400
+4|intro to CS|[]|1000
+5|English ez|[]|2500
+6|hard course|[1,4,5]|500
+7|Data Structre|[1,4]|375
+8|Calculos ii|[1]|375
+9|Probability|[5,7,8]|250
